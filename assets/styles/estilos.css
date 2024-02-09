@@ -3,5 +3,16 @@
 }
 
 .fondomenu2{
-    background-color: aquamarine;
+    background-color: green;
+}
+
+.fuente{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    color: aquamarine;
+    font-weight: bolder;
+    
+}
+.fuente2{
+    font-family: 'Nabla', system-ui;
 }
